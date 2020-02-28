@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="12" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38285" started-at="2020-02-28T12:55:39 IST" finished-at="2020-02-28T12:56:17 IST">
+    <groups>
+    </groups>
+    <test name="TestCase1" duration-ms="35352" started-at="2020-02-28T12:55:39 IST" finished-at="2020-02-28T12:56:14 IST">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@34c4973]" name="beforeTest" is-config="true" duration-ms="17069" started-at="2020-02-28T12:55:39 IST" finished-at="2020-02-28T12:55:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://172.21.29.23:8086/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@34c4973]" name="testLoginDemoWebShop" duration-ms="6811" started-at="2020-02-28T12:55:56 IST" data-provider="dp2" finished-at="2020-02-28T12:56:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@34c4973]" name="testLoginDemoWebShop" duration-ms="5622" started-at="2020-02-28T12:56:03 IST" data-provider="dp2" finished-at="2020-02-28T12:56:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@ymail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vendor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@34c4973]" name="testLoginDemoWebShop" duration-ms="5572" started-at="2020-02-28T12:56:09 IST" data-provider="dp2" finished-at="2020-02-28T12:56:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[guest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@34c4973]" name="afterTest" is-config="true" duration-ms="148" started-at="2020-02-28T12:56:14 IST" finished-at="2020-02-28T12:56:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- TestCase1 -->
+    <test name="TestCase4" duration-ms="37331" started-at="2020-02-28T12:55:39 IST" finished-at="2020-02-28T12:56:16 IST">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@1500955a]" name="beforeTest" is-config="true" duration-ms="17705" started-at="2020-02-28T12:55:39 IST" finished-at="2020-02-28T12:55:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://172.21.29.13:1953/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@1500955a]" name="testLoginDemoWebShop" duration-ms="7982" started-at="2020-02-28T12:55:57 IST" data-provider="dp2" finished-at="2020-02-28T12:56:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@1500955a]" name="testLoginDemoWebShop" duration-ms="5805" started-at="2020-02-28T12:56:05 IST" data-provider="dp2" finished-at="2020-02-28T12:56:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@ymail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vendor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@1500955a]" name="testLoginDemoWebShop" duration-ms="5637" started-at="2020-02-28T12:56:11 IST" data-provider="dp2" finished-at="2020-02-28T12:56:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[guest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@1500955a]" name="afterTest" is-config="true" duration-ms="123" started-at="2020-02-28T12:56:16 IST" finished-at="2020-02-28T12:56:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- TestCase4 -->
+    <test name="TestCase2" duration-ms="38285" started-at="2020-02-28T12:55:39 IST" finished-at="2020-02-28T12:56:17 IST">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3e57cd70]" name="beforeTest" is-config="true" duration-ms="18752" started-at="2020-02-28T12:55:39 IST" finished-at="2020-02-28T12:55:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://172.21.29.153:5221/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3e57cd70]" name="testLoginDemoWebShop" duration-ms="7861" started-at="2020-02-28T12:55:58 IST" data-provider="dp2" finished-at="2020-02-28T12:56:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3e57cd70]" name="testLoginDemoWebShop" duration-ms="5956" started-at="2020-02-28T12:56:06 IST" data-provider="dp2" finished-at="2020-02-28T12:56:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@ymail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vendor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="testLoginDemoWebShop(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3e57cd70]" name="testLoginDemoWebShop" duration-ms="5405" started-at="2020-02-28T12:56:12 IST" data-provider="dp2" finished-at="2020-02-28T12:56:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[guest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginDemoWebShop -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@3e57cd70]" name="afterTest" is-config="true" duration-ms="212" started-at="2020-02-28T12:56:17 IST" finished-at="2020-02-28T12:56:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- TestCase2 -->
+  </suite> <!-- Suite -->
+</testng-results>
